@@ -1,6 +1,6 @@
 # **Applied Data Science Capstone**
 
-## SpaceX Falcon 9 First Stage Landing Prediction
+# SpaceX Falcon 9 First Stage Landing Prediction
 
 ## Project Overview
 This project is part of the Applied Data Science Capstone offered by IBM. The objective is to predict whether the Falcon 9 first stage will successfully land. SpaceX advertises the cost of Falcon 9 rocket launches at $62 million, significantly lower than the $165+ million charged by other providers. The primary reason for this cost efficiency is the reusability of the Falcon 9 first stage. By determining the likelihood of a successful landing, this project aims to estimate the cost-effectiveness of launches and provide insights for potential competitors looking to bid against SpaceX for rocket launches.
@@ -57,6 +57,8 @@ This project uses datasets collected from SpaceX’s public records and other so
 
 ## License
 This project is licensed under the MIT License. See the LICENSE file for details.
+
+---
 
 ## Acknowledgments
 This project was developed as part of the IBM Data Science Professional Certificate. Special thanks to SpaceX for making their launch data publicly available.
